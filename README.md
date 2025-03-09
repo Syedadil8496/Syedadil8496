@@ -30,9 +30,9 @@ My proficiency extends beyond syntax, focusing on the harmonious fusion of front
 
 
 ## 📫 How to reach me  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedAdil)  
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedadil234) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedAdil) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syedadil234) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedadil8496.github.io/Portofolio/)
 
 
