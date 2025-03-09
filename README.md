@@ -1,14 +1,19 @@
 # Hi there 👋  
 
-I'm Syed Adil, passionate about **Blockchain, Cybersecurity, and AI**.
+I'm Syed Adil, currently pursuing my Fourth year in Bachelor of Engineering in Computer Science. With a burning passion for software development and a meticulous eye for detail, I thrive in the world of programming.
+
+I'm well-versed in various programming languages and technologies, including C, C++, Java, Python, HTML, PHP, Bootstrap, and JavaScript. I excel in crafting seamless user experiences for both front-end and back-end development, ensuring optimal software performance.
+
+My proficiency extends beyond syntax, focusing on the harmonious fusion of front-end and back-end elements to deliver exceptional user experiences. Whether I'm envisioning intuitive interfaces or fortifying backend structures, my meticulous approach ensures every facet of the software operates at peak efficiency.
 
 ---
 
 ## 🚀 I love working with  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ---
 
